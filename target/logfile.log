@@ -1,0 +1,11 @@
+2021-11-19 17:53:24 INFO  ApplicationSteps:30 - Reading file: C:\Users\user\Desktop\logfile.txt
+2021-11-19 17:53:25 INFO  ENGINE:? - checkpointClose start
+2021-11-19 17:53:25 INFO  ENGINE:? - checkpointClose synched
+2021-11-19 17:53:25 INFO  ENGINE:? - checkpointClose script done
+2021-11-19 17:53:25 INFO  ENGINE:? - checkpointClose end
+2021-11-19 17:53:25 INFO  HSQLDBConnection:20 - Successfully connected to database.
+2021-11-19 17:53:25 INFO  HSQLDBConnection:28 - Database table created/already existed.
+2021-11-19 17:53:25 INFO  ApplicationSteps:65 - Event logged in DB: Event Id: scsmbstgra, Duration(ms): 5, Type:APPLICATION_LOG, Host: 12345, Alert:true
+2021-11-19 17:53:25 INFO  ApplicationSteps:65 - Event logged in DB: Event Id: scsmbstgrc, Duration(ms): 8, Type:null, Host: null, Alert:true
+2021-11-19 17:53:25 INFO  ApplicationSteps:65 - Event logged in DB: Event Id: scsmbstgrb, Duration(ms): 3, Type:null, Host: null, Alert:false
+2021-11-19 17:53:26 INFO  HSQLDBConnection:35 - Database connection closed.
