@@ -9,7 +9,6 @@ This project also writes the events to HSQLDB under which sampledb database pres
 
 2.Maven ( for resolving dependancy and test)
 
-3.HSQLDB (for database inserts)
 
 
 **Running Test**
