@@ -22,7 +22,7 @@ mvn clean test -DfileName=C:\Users\user\Desktop\logfile.txt
 
 Open command prompt and navigate to your project working directory and run above mvn command.
 
-**Project Structure explainaion**
+**Project Structure explaination**
 --------------------------------------------------------------------------------------
 **test** folder
 1. FeatureFiles: For writing test scenario we have used cucumber feature files, which contain scenarios in "Given" "When" "Then" gherkin format.
